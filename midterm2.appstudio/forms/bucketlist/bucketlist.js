@@ -1,4 +1,4 @@
-let bucketlist = []
+/* let bucketlist = []
 let i = 0
 let nomorebucket = false
 while (nomorebucket == false){
@@ -7,3 +7,4 @@ while (nomorebucket == false){
     nomorebucket = confirm("Are you done adding to your bucket list?")
     }
     console.log(bucketlist)
+*/
